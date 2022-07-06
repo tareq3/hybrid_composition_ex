@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="uiKey" format="string" />
+    <declare-styleable name="SecureEditText">
+        <attr name="input_type" format="enum">
+            <enum name="password" value="0" />
+            <enum name="passcode" value="1" />
+            <enum name="cardPin" value="2" />
+
+        </attr>
+        <attr name="uiKey"  />
+
+    </declare-styleable>
+
+
+    <declare-styleable name="SecureTextView">
+        <attr name="text_type"  >
+            <enum name="none" value="0" />
+            <enum name="card" value="1" />
+            <enum name="cvc" value="2" />
+        </attr>
+        <attr name="tokenizeText" format="string" />
+        <attr name="uiKey"  />
+
+    </declare-styleable>
+
+
+</resources>
