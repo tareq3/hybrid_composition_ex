@@ -14,4 +14,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 <!-- ![](gifs/black_back_behind_hybrid_composition.gif) -->
-<img src="/gif/black_back_behind_hybrid_composition.gif" width="50%" height="50%"/>
+<img src="/gifs/black_back_behind_hybrid_composition.gif" width="30%" height="30%"/>
