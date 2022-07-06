@@ -13,4 +13,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![](gifs/black_back_behind_hybrid_composition.gif)
+<!-- ![](gifs/black_back_behind_hybrid_composition.gif) -->
+<img src="/gif/black_back_behind_hybrid_composition.gif" width="50%" height="50%"/>
